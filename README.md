@@ -124,8 +124,7 @@ dagger call chaos-test --src=. --sock=/var/run/docker.sock --host-path=$(pwd)
 
 ```
 uptime-monitor/
-├── .env                    # секреты (не коммитится)
-├── .env.example            # шаблон без секретов
+├── .env.example            # шаблон
 ├── docker-compose.app.yml
 ├── docker-compose.monitoring.yml
 ├── dagger.json

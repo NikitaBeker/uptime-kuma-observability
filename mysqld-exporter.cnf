@@ -1,0 +1,5 @@
+[client]
+user=exporter
+password=ExporterSecret_2026!
+host=mariadb
+port=3306

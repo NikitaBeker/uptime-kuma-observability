@@ -51,7 +51,6 @@ sudo apt install -y nodejs npm
 git clone <repo> uptime-monitor
 cd uptime-monitor
 cp .env.example .env
-# отредактируйте .env, задав надёжные пароли
 
 
 ```
